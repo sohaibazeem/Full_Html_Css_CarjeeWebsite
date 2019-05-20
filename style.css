@@ -1,0 +1,228 @@
+
+.header{
+    background-image: url('img/bg.png');
+    background-size:cover;
+    min-height: 600px;
+    
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+.btn{
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    border: none;
+    background-color: yellow;
+    padding: 5px;
+    color: grey;
+    margin-left: 40px;
+}
+.navbar-brand {
+    margin-right: 150px;
+}
+.flex-container > .innovative {
+    text-align: center;
+    position: relative;
+    top: 85px;
+    left: -30px;
+    font-family: 'mont-light';
+    color: white;
+}
+.innovative p{
+    color: white;
+}
+.innovative .btn{
+    background-color:#006fff;
+    color: white;
+}
+.subscribe-text{
+    text-align: center;
+    position: relative;
+    font-family: 'mont-light';
+    color: white;
+    margin: 12px 122px;
+}
+.subscribe-text .btn{
+    background-color: #ffa800;
+    color: white;
+    border-radius: 0px;
+    width: 280px;
+}
+.subscribe-area{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 60px;
+}
+.oil-change h3{
+    color: #006eff;
+    font-size: 20px;
+    text-align: left;
+}
+.oil-change p{
+    text-align: left;
+}
+.service h2{
+    text-align: center;
+    padding-top: 65px;
+    padding-bottom: 30px;
+}
+.service p{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.services{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+.services p{
+    text-align: center;
+}
+.oil{
+    padding-top: 35px;
+}
+.about h2{
+    text-align: center;
+    padding-top: 50px;
+}
+.book h1{
+    padding-top: 40px;
+}
+.vertical-line{
+    position: absolute;
+    width: 4px;
+    height: 350px;
+    background-color: #006eff;
+    left: 600px;
+}
+.billing{
+    position: relative;
+    top: -90px;
+}
+.horizontal-line{
+    height: 1px;
+    width: 380px;
+    background-color: black;
+}
+.book img{
+    width: 185px;
+    }
+.book p{
+    text-align: left;
+    margin-bottom: 25px;
+}
+.update{
+    background-image: url('img/updates.png');
+    background-size: cover;
+    min-height: 500px;
+   }
+.p-2{
+    color: white;
+    margin-top: 40px;
+}
+.p-2 img{
+padding-left: 100px !important;
+}
+.next{
+        display: block;
+        width:400px;
+        height: 40px;
+        background:#006fff;
+        border: 0px solid black;
+        border-radius: 15px;
+        color: white;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        margin-top: 2px;
+        padding-top: 8px;
+        text-align: center;        
+    }
+.area{
+    width: 190px !important;
+     }
+.p-3 h2{
+    margin-top: 50px;
+}
+.p-3 img{
+    margin-left: 125px;
+    padding-bottom: 45px;
+}
+.p-3 h4{
+color: #338bff;
+}
+.corporate-text{
+    text-align: center;
+    position: relative;
+    font-family: 'mont-light';
+    margin: 12px 122px;
+}
+.corporate-text .btn{
+    background-color: #ffa800;
+    color: black;
+    border-radius: 0px;
+    width: 350px; 
+}
+.join {
+    margin-top: 110px;
+    text-align: center;
+    background-color: #f9f9f9;
+    padding-top: 70px;
+}  
+.personal-information input[type=text]
+    {   background-color: transparent;
+        background-position: 10px 10px;
+        margin: 10px;
+        border: 1px solid gray;
+        height: 40px;
+        width: 400px;
+        border-radius: 5px;
+        cursor: pointer;
+        padding-left: 20px;
+    }
+.meeting-form input[type=text]{
+        background-color: transparent;
+        background-position: 10px 10px;
+        margin: 10px;
+        border: 1px solid gray;
+        height: 40px;
+        width: 400px;
+        border-radius: 5px;
+        cursor: pointer;
+        padding-left: 20px;
+}
+.meeting-form textarea{
+        width: 400px;
+        background-color: transparent;
+        border: 1px solid gray;
+        border-radius: 15px;
+        cursor: pointer;
+        padding-left: 16px;
+        }
+.meeting-form .btn{
+    background-color: #006eff;
+    color: white;
+    border-radius: 6px;
+    width: 390px;
+    margin: 10px;
+    margin-bottom: 30px;
+}
+.color{
+    color: #006eff;
+}
+.footer{
+        background-image: url('img/footer.png');
+        background-size: cover;
+        height: 300px;
+        background-position: center;
+       
+       
+    }
+.footer p{
+        text-align: center;
+        color: white;
+    }
+.end{
+        text-align: center;
+        padding-top: 100px;
+    }
